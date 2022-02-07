@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 This project can be reused for add, sort by favorite / delete an item.
 
-![image](https://user-images.githubusercontent.com/15200359/152868646-7323d4f9-bb51-4f0e-9193-6e3583d807bd.png)
+![image](https://user-images.githubusercontent.com/15200359/152869091-371bfe0f-26b6-4584-ad68-fda0975b5c95.png)
 
 1. User can type in search bar to search for the list.
 2. User can hit enter to add a new item to the list.
