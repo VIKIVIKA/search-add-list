@@ -22,3 +22,4 @@ This project can be reused for add, sort by favorite / delete an item.
 2. User can hit enter to add a new item to the list.
 3. User can delete the item's by click on delete button.
 4. User can favorite an item by clicking on the heart icon in the list.
+5. Configurable pagination available as well.
